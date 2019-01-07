@@ -22,3 +22,17 @@ Keyboard Layout
 ---------------
 
 The keyboard layout defaults to `en` and can be switched to `de` using `alt+shift`
+
+
+Resize
+------
+
+The resize step has been lowered from 10px to 5px
+
+
+Additional Shortcuts
+--------------------
+
+`$mod+shift+f` Start file manager vifm
+
+`$mod+shift+x` Lock screen
