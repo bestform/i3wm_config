@@ -7,6 +7,8 @@ Additional software used:
 
 `vifm` as file manager
 
+`sxiv` as image viewer used by `vifm`
+
 `arandr` for setting up multi monitor setup (you won't need this if you are only using one monitor)
 
 
