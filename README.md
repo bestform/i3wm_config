@@ -16,6 +16,12 @@ Additional software used:
 To install, use `sudo apt install feh vifm sxiv zathura arandr`
 
 
+Font
+----
+
+The system font used is YosemiteSanFrancisco.
+To install it, go to [](https://github.com/supermarin/YosemiteSanFranciscoFont), download the zip file and put all the ttf files in `~.fonts/`
+
 Multi Monitor Setup
 -------------------
 
