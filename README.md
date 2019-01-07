@@ -20,7 +20,7 @@ Font
 ----
 
 The system font used is YosemiteSanFrancisco.
-To install it, go to [](https://github.com/supermarin/YosemiteSanFranciscoFont), download the zip file and put all the ttf files in `~.fonts/`
+To install it, go to [this github page](https://github.com/supermarin/YosemiteSanFranciscoFont), download the zip file and put all the ttf files in `~.fonts/`
 
 Multi Monitor Setup
 -------------------
