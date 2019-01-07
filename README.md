@@ -13,6 +13,8 @@ Additional software used:
 
 `arandr` for setting up multi monitor setup (you won't need this if you are only using one monitor)
 
+To install, use `sudo apt install feh vifm sxiv zathura arandr`
+
 
 Multi Monitor Setup
 -------------------
