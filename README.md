@@ -36,3 +36,5 @@ Additional Shortcuts
 `$mod+shift+f` Start file manager vifm
 
 `$mod+shift+x` Lock screen
+
+`$mod+m` Move workspace to another monitor

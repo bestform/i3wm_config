@@ -177,3 +177,6 @@ bindsym $mod+shift+x exec i3lock -c aaaacc
 # Keyboard Layout
 exec_always setxkbmap -layout us,de
 exec_always setxkbmap -option 'grp:alt_shift_toggle'
+
+# Bind moving workspace through monitors
+bindsym $mod+m move workspace to output left
