@@ -37,7 +37,7 @@ I use `arandr` to setup my monitors and save it to `~/.screenlayout/layout.sh`. 
 Keyboard Layout
 ---------------
 
-The keyboard layout defaults to `en` and can be switched to `de` using `alt+shift`
+The keyboard layout defaults to `en` and can be switched to `de` using both shift keys
 
 
 Resize
