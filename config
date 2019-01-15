@@ -165,7 +165,7 @@ exec_always ~/.screenlayout/layout.sh
 # Invert Scroll Direction
 exec_always xinput --set-prop 8 "Evdev Scrolling Distance" -1 -1 -1
 exec_always xinput --set-prop 12 "libinput Natural Scrolling Enabled" 1
-exec_always xinput --set-prop 12 "libinput Tapping Enabled" 1
+exec_always xinput --set-prop 12 "libinput Tapping Enabled" 0
 
 
 # Wallpaper
