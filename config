@@ -167,6 +167,7 @@ exec_always ~/.screenlayout/layout.sh
 exec_always xinput --set-prop "SYNA2393:00 06CB:7A13 Touchpad" "libinput Natural Scrolling Enabled" 1
 exec_always xinput --set-prop "DELL DELL USB Laser Mouse" "libinput Natural Scrolling Enabled" 1
 exec_always xinput --set-prop "Logitech USB-PS/2 Optical Mouse" "libinput Natural Scrolling Enabled" 1
+exec_always xinput --set-prop "Logitech Wireless Mouse" "libinput Natural Scrolling Enabled" 1
 exec_always xinput --set-prop "SYNA2393:00 06CB:7A13 Touchpad" "libinput Tapping Enabled" 0
 
 
